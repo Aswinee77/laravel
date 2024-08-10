@@ -45,8 +45,9 @@
                         </div>
                         <!-- end card -->
                     </div>
+                    @endforeach
                 </div>
-                @endforeach
+                
                 <!-- end row -->                        
             </div> <!-- container-fluid -->
         </div>
